@@ -1,0 +1,13 @@
+{
+    "n_components": 2,
+    "n_neighbors": 5,
+    "min_dist": 0.05,
+    "metric": "cosine",
+    "spread": 2.0,
+    "random_state": 42,
+    "feature_extractor": "ResNet50",
+    "preprocessing": "No Preprocessing",
+    "charter_selection": "All Charter Initials",
+    "special_highlighting": "Same Scribe Highlighted",
+    "notes": "first attempt at clustering initials"
+}

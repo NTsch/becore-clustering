@@ -1,0 +1,13 @@
+{
+    "n_components": 2,
+    "n_neighbors": 5,
+    "min_dist": 0.05,
+    "metric": "cosine",
+    "spread": 2.0,
+    "random_state": 42,
+    "feature_extractor": "HOG",
+    "preprocessing": "Binarization",
+    "charter_selection": "French & Austrian (Papal, Notary, Other)",
+    "special_highlighting": "no highlighted charters",
+    "notes": "baseline HOG comparison with binarization"
+}
